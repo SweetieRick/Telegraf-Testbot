@@ -1,0 +1,19 @@
+{
+  "name": "telegraf-testbot",
+  "version": "1.0.0",
+  "description": "Base bot for testing purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SweetieRick/Telegraf-Testbot.git"
+  },
+  "author": "SweetieRick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SweetieRick/Telegraf-Testbot/issues"
+  },
+  "homepage": "https://github.com/SweetieRick/Telegraf-Testbot#readme"
+}
