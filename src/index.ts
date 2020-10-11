@@ -1,6 +1,6 @@
 import chalk from "chalk";
 import Telegraf from "telegraf";
-const token = ''
+const token = 'YOUR_TOKEN_HERE'
 
 const TeleBot = new Telegraf(token)
 
