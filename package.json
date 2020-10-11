@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SweetieRick/Telegraf-Testbot/issues"
   },
-  "homepage": "https://github.com/SweetieRick/Telegraf-Testbot#readme"
+  "homepage": "https://github.com/SweetieRick/Telegraf-Testbot#readme",
+  "dependencies": {
+    "telegraf": "^3.38.0"
+  }
 }
